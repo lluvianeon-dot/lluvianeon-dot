@@ -22,6 +22,10 @@ Me gusta aprender, crear y compartir el proceso: entre partidas, código y exper
 
 Este espacio está comenzando. Aquí iré compartiendo mis primeros proyectos, experimentos y lo que aprenda en el camino.
 
+### Conectemos en LinkedIn
+
+[![Mi perfil de LinkedIn: Lluvianeon-dot](linkedin-compartir-facebook-x.png)](https://www.linkedin.com/in/lluvianeon-dot/)
+
 ### Encuéntrame
 
 [Facebook](https://www.facebook.com/lluvianeon.dot) · [YouTube](https://www.youtube.com/@lluvianeon-dot) · [Instagram](https://www.instagram.com/lluvianeon.dot/) · [TikTok](https://www.tiktok.com/@lluvianeon.dot) · [X](https://x.com/lluvianeon_dot) · [LinkedIn](https://www.linkedin.com/in/lluvianeon-dot/)
