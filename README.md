@@ -2,7 +2,7 @@
 
 # Lluvia Neón
 
-**Desarrollo con inteligencia artificial**
+**QA · LLMs · RAG · Agentes de IA**
 
 Ideas que toman forma, un proyecto a la vez.
 
@@ -12,11 +12,17 @@ Ideas que toman forma, un proyecto a la vez.
 
 ### Mi enfoque
 
-Estoy construyendo este espacio alrededor del desarrollo con IA: aprender, experimentar y convertir ideas en herramientas útiles.
+Mi enfoque combina calidad de software e inteligencia artificial. Estoy construyendo este espacio para aprender, experimentar y convertir ideas en herramientas útiles.
 
+- **LLMs y RAG:** explorar modelos de lenguaje y recuperación de información.
 - **Agentes de IA:** explorar asistentes que ayuden a resolver tareas.
 - **Automatización:** simplificar procesos y trabajo repetitivo.
 - **Proyectos:** compartir experimentos, avances y lo aprendido en el camino.
+
+### Experiencia
+
+- **Walook:** QA.
+- **Advans:** protección.
 
 ### En construcción
 
