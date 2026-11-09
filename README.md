@@ -1,39 +1,31 @@
 <div align="center">
 
-# Lluvia Neón
+# Lluvianeon-dot
 
-**QA · LLMs · RAG · Agentes de IA**
+Código, videojuegos y nuevas ideas.
 
-Ideas que toman forma, un proyecto a la vez.
-
----
+**LLMs · RAG · Agentes de IA**
 
 </div>
 
-### Mi enfoque
+---
 
-Mi enfoque combina calidad de software e inteligencia artificial. Estoy construyendo este espacio para aprender, experimentar y convertir ideas en herramientas útiles.
+### Sobre mí
 
-- **LLMs y RAG:** explorar modelos de lenguaje y recuperación de información.
-- **Agentes de IA:** explorar asistentes que ayuden a resolver tareas.
-- **Automatización:** simplificar procesos y trabajo repetitivo.
-- **Proyectos:** compartir experimentos, avances y lo aprendido en el camino.
+Me gusta aprender, crear y compartir el proceso: entre partidas, código y experimentos con tecnología.
 
-### Experiencia
-
-- **Walook:** QA.
-- **Advans:** protección.
+- 🧠 **LLMs y RAG:** explorando modelos de lenguaje y nuevas formas de conectar información.
+- ✨ **Agentes de IA:** probando ideas para asistentes y automatizaciones.
+- 🎮 **Videojuegos:** historias, partidas y momentos que vale la pena compartir.
 
 ### En construcción
 
-Este perfil está comenzando. Aquí irán apareciendo mis primeros proyectos y su documentación.
+Este espacio está comenzando. Aquí iré compartiendo mis primeros proyectos, experimentos y lo que aprenda en el camino.
+
+### Encuéntrame
+
+[Facebook](https://www.facebook.com/lluvianeon.dot) · [YouTube](https://www.youtube.com/@lluvianeon-dot) · [Instagram](https://www.instagram.com/lluvianeon.dot/) · [TikTok](https://www.tiktok.com/@lluvianeon.dot) · [X](https://x.com/lluvianeon_dot)
 
 ---
 
-<div align="center">
-
-[Ver mis repositorios](https://github.com/lluvianeon-dot?tab=repositories)
-
-<sub>lluvianeon-dot · Aprender. Crear. Iterar.</sub>
-
-</div>
+<div align="center"><sub>Aprender. Crear. Compartir. :3</sub></div>
