@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lluvianeon-dot/lluvianeon-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lluvia Neón
 
-Here are some ideas to get you started:
+**Desarrollo con inteligencia artificial**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ideas que toman forma, un proyecto a la vez.
+
+---
+
+</div>
+
+### Mi enfoque
+
+Estoy construyendo este espacio alrededor del desarrollo con IA: aprender, experimentar y convertir ideas en herramientas útiles.
+
+- **Agentes de IA:** explorar asistentes que ayuden a resolver tareas.
+- **Automatización:** simplificar procesos y trabajo repetitivo.
+- **Proyectos:** compartir experimentos, avances y lo aprendido en el camino.
+
+### En construcción
+
+Este perfil está comenzando. Aquí irán apareciendo mis primeros proyectos y su documentación.
+
+---
+
+<div align="center">
+
+[Ver mis repositorios](https://github.com/lluvianeon-dot?tab=repositories)
+
+<sub>lluvianeon-dot · Aprender. Crear. Iterar.</sub>
+
+</div>
