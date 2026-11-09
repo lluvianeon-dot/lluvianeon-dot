@@ -24,7 +24,7 @@ Este espacio está comenzando. Aquí iré compartiendo mis primeros proyectos, e
 
 ### Encuéntrame
 
-[Facebook](https://www.facebook.com/lluvianeon.dot) · [YouTube](https://www.youtube.com/@lluvianeon-dot) · [Instagram](https://www.instagram.com/lluvianeon.dot/) · [TikTok](https://www.tiktok.com/@lluvianeon.dot) · [X](https://x.com/lluvianeon_dot)
+[Facebook](https://www.facebook.com/lluvianeon.dot) · [YouTube](https://www.youtube.com/@lluvianeon-dot) · [Instagram](https://www.instagram.com/lluvianeon.dot/) · [TikTok](https://www.tiktok.com/@lluvianeon.dot) · [X](https://x.com/lluvianeon_dot) · [LinkedIn](https://www.linkedin.com/in/lluvianeon-dot/)
 
 ---
 
